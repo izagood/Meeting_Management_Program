@@ -18,7 +18,7 @@ assignees: ''
 <!-- 3. An error occurs after selecting something -->
 
 
-### Expected behaviour<<!-- Expected behavior when operating normally -->
+### Expected behaviour<!-- Expected behavior when operating normally -->
 
 ### Reference image<!-- Images to help us understand the bug -->
 
