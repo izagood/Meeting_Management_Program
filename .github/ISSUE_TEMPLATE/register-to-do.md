@@ -1,6 +1,6 @@
 ---
 name: register to do
-about: ''
+about: Register to do
 title: ''
 labels: ''
 assignees: ''
