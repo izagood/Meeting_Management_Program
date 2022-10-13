@@ -1,11 +1,11 @@
-package com.jaebin.meeting_manager
+package com.jaebin.member_manager
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class MeetingManagerApplication
+class MemberManagerApplication
 
 fun main(args: Array<String>) {
-    runApplication<MeetingManagerApplication>(*args)
+    runApplication<MemberManagerApplication>(*args)
 }
